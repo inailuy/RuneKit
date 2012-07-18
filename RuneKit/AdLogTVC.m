@@ -40,7 +40,7 @@
     //Creating UISearchbar
     searchBarInput = [[UISearchBar alloc] init];
     searchBarInput.barStyle = 1;
-    searchBarInput.placeholder = @"Search the AdventureLog";
+    searchBarInput.placeholder = @"Search the Adventure Log";
     searchBarInput.delegate = (id)self;
     searchBarInput.autocapitalizationType = UITextAutocapitalizationTypeNone;
     //[self.view insertSubview:searchBarInput atIndex:0];
