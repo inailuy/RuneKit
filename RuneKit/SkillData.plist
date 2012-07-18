@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>skillNames</key>
+	<array>
+		<string>Overall</string>
+		<string>Attack</string>
+		<string>Defence</string>
+		<string>Strength</string>
+		<string>Constitution</string>
+		<string>Range</string>
+		<string>Prayer</string>
+		<string>Magic</string>
+		<string>Cooking</string>
+		<string>Woodcutting</string>
+		<string>Fletching</string>
+		<string>Fishing</string>
+		<string>Firemaking</string>
+		<string>Crafting</string>
+		<string>Smithing</string>
+		<string>Mining</string>
+		<string>Herblore</string>
+		<string>Agility</string>
+		<string>Thieving</string>
+		<string>Slayer</string>
+		<string>Farming</string>
+		<string>Runecrafting</string>
+		<string>Hunter</string>
+		<string>Construction</string>
+		<string>Summoning</string>
+		<string>Dungeoneering</string>
+	</array>
+	<key>skill</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>Yak</key>
+			<integer>200</integer>
+			<key>Armoured Zombie</key>
+			<integer>340</integer>
+			<key>Experiment</key>
+			<integer>400</integer>
+			<key>Fire Giant</key>
+			<integer>444</integer>
+			<key>Monkey Guard</key>
+			<integer>520</integer>
+			<key>Black Demon</key>
+			<integer>628</integer>
+			<key>Lesser Demon</key>
+			<integer>316</integer>
+			<key>Greater Demon</key>
+			<integer>348</integer>
+			<key>Giant Spider</key>
+			<integer>200</integer>
+			<key>Cockroach Soldier</key>
+			<integer>388</integer>
+			<key>Deadly Red Spider</key>
+			<integer>140</integer>
+			<key>Hill Giant</key>
+			<integer>140</integer>
+			<key>Moss Giant</key>
+			<integer>240</integer>
+			<key>Ankou (level 75)</key>
+			<integer>240</integer>
+			<key>Ankou (level 82)</key>
+			<integer>260</integer>
+			<key>Bandits</key>
+			<integer>204</integer>
+			<key>Ankou (level 86)</key>
+			<integer>280</integer>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>Yak</key>
+			<integer>200</integer>
+			<key>Armoured Zombie</key>
+			<integer>340</integer>
+			<key>Experiment</key>
+			<integer>400</integer>
+			<key>Fire Giant</key>
+			<integer>444</integer>
+			<key>Monkey Guard</key>
+			<integer>520</integer>
+			<key>Black Demon</key>
+			<integer>628</integer>
+			<key>Lesser Demon</key>
+			<integer>316</integer>
+			<key>Greater Demon</key>
+			<integer>348</integer>
+			<key>Giant Spider</key>
+			<integer>200</integer>
+			<key>Cockroach Soldier</key>
+			<integer>388</integer>
+			<key>Deadly Red Spider</key>
+			<integer>140</integer>
+			<key>Hill Giant</key>
+			<integer>140</integer>
+			<key>Moss Giant</key>
+			<integer>240</integer>
+			<key>Ankou (level 75)</key>
+			<integer>240</integer>
+			<key>Ankou (level 82)</key>
+			<integer>260</integer>
+			<key>Bandits</key>
+			<integer>204</integer>
+			<key>Ankou (level 86)</key>
+			<integer>280</integer>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>Yak</key>
+			<integer>200</integer>
+			<key>Armoured Zombie</key>
+			<integer>340</integer>
+			<key>Experiment</key>
+			<integer>400</integer>
+			<key>Fire Giant</key>
+			<integer>444</integer>
+			<key>Monkey Guard</key>
+			<integer>520</integer>
+			<key>Black Demon</key>
+			<integer>628</integer>
+			<key>Lesser Demon</key>
+			<integer>316</integer>
+			<key>Greater Demon</key>
+			<integer>348</integer>
+			<key>Giant Spider</key>
+			<integer>200</integer>
+			<key>Cockroach Soldier</key>
+			<integer>388</integer>
+			<key>Deadly Red Spider</key>
+			<integer>140</integer>
+			<key>Hill Giant</key>
+			<integer>140</integer>
+			<key>Moss Giant</key>
+			<integer>240</integer>
+			<key>Ankou (level 75)</key>
+			<integer>240</integer>
+			<key>Ankou (level 82)</key>
+			<integer>260</integer>
+			<key>Bandits</key>
+			<integer>204</integer>
+			<key>Ankou (level 86)</key>
+			<integer>280</integer>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>Yak</key>
+			<integer>200</integer>
+			<key>Armoured Zombie</key>
+			<integer>340</integer>
+			<key>Experiment</key>
+			<integer>400</integer>
+			<key>Fire Giant</key>
+			<integer>444</integer>
+			<key>Monkey Guard</key>
+			<integer>520</integer>
+			<key>Black Demon</key>
+			<integer>628</integer>
+			<key>Lesser Demon</key>
+			<integer>316</integer>
+			<key>Greater Demon</key>
+			<integer>348</integer>
+			<key>Giant Spider</key>
+			<integer>200</integer>
+			<key>Cockroach Soldier</key>
+			<integer>388</integer>
+			<key>Deadly Red Spider</key>
+			<integer>140</integer>
+			<key>Hill Giant</key>
+			<integer>140</integer>
+			<key>Moss Giant</key>
+			<integer>240</integer>
+			<key>Ankou (level 75)</key>
+			<integer>240</integer>
+			<key>Ankou (level 82)</key>
+			<integer>260</integer>
+			<key>Bandits</key>
+			<integer>204</integer>
+			<key>Ankou (level 86)</key>
+			<integer>280</integer>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>Yak</key>
+			<integer>200</integer>
+			<key>Armoured Zombie</key>
+			<integer>340</integer>
+			<key>Experiment</key>
+			<integer>400</integer>
+			<key>Fire Giant</key>
+			<integer>444</integer>
+			<key>Monkey Guard</key>
+			<integer>520</integer>
+			<key>Black Demon</key>
+			<integer>628</integer>
+			<key>Lesser Demon</key>
+			<integer>316</integer>
+			<key>Greater Demon</key>
+			<integer>348</integer>
+			<key>Giant Spider</key>
+			<integer>200</integer>
+			<key>Cockroach Soldier</key>
+			<integer>388</integer>
+			<key>Deadly Red Spider</key>
+			<integer>140</integer>
+			<key>Hill Giant</key>
+			<integer>140</integer>
+			<key>Moss Giant</key>
+			<integer>240</integer>
+			<key>Ankou (level 75)</key>
+			<integer>240</integer>
+			<key>Ankou (level 82)</key>
+			<integer>260</integer>
+			<key>Bandits</key>
+			<integer>204</integer>
+			<key>Ankou (level 86)</key>
+			<integer>280</integer>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>Big Bones</key>
+			<integer>15</integer>
+			<key>Zorge Bones</key>
+			<real>22.5</real>
+			<key>Baby Dragon Bones</key>
+			<integer>30</integer>
+			<key>Wyvern Bones</key>
+			<integer>50</integer>
+			<key>Infernal Ashes</key>
+			<real>62.5</real>
+			<key>Dragon Bones</key>
+			<integer>72</integer>
+			<key>Dagannoth Bones</key>
+			<integer>125</integer>
+			<key>Ourg Bones</key>
+			<integer>140</integer>
+			<key>Frost Bones</key>
+			<integer>180</integer>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>Curse</key>
+			<integer>29</integer>
+			<key>Bind</key>
+			<integer>30</integer>
+			<key>Low Level Alchemy</key>
+			<integer>31</integer>
+			<key>Varrock Teleport</key>
+			<integer>35</integer>
+			<key>Lumbridge Teleport</key>
+			<integer>41</integer>
+			<key>Telekinetic Grab</key>
+			<integer>43</integer>
+			<key>Fire Bolt</key>
+			<real>22.5</real>
+			<key>Falador Teleport</key>
+			<integer>48</integer>
+			<key>Teleport House</key>
+			<integer>30</integer>
+			<key>Superheat Item</key>
+			<integer>53</integer>
+			<key>Camelot Teleport</key>
+			<real>55.5</real>
+			<key>Magic Dart</key>
+			<integer>30</integer>
+			<key>Snare</key>
+			<integer>60</integer>
+			<key>Ardougne Teleport</key>
+			<integer>61</integer>
+			<key>High Alchemy</key>
+			<integer>65</integer>
+			<key>Trollheim Teleport</key>
+			<integer>68</integer>
+			<key>Vulnerability</key>
+			<integer>76</integer>
+			<key>Enfeeble</key>
+			<integer>83</integer>
+			<key>Teleother Lumbridge</key>
+			<integer>84</integer>
+			<key>Entagle</key>
+			<integer>89</integer>
+			<key>Stun</key>
+			<integer>90</integer>
+			<key>Charge</key>
+			<integer>180</integer>
+			<key>Teleother Falador</key>
+			<integer>92</integer>
+			<key>Teleother Camelot</key>
+			<integer>100</integer>
+			<key>Bake Pie</key>
+			<integer>60</integer>
+			<key>Humidify</key>
+			<integer>65</integer>
+			<key>Moonclan Teleport</key>
+			<integer>66</integer>
+			<key>Hunter Kit</key>
+			<integer>70</integer>
+			<key>Superglass Make</key>
+			<integer>78</integer>
+			<key>String Jewellery</key>
+			<integer>83</integer>
+			<key>Plank Make</key>
+			<string>90</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>Tuna</key>
+			<integer>100</integer>
+			<key>Monkfish</key>
+			<integer>150</integer>
+			<key>Lobster</key>
+			<integer>120</integer>
+			<key>Shark</key>
+			<integer>210</integer>
+			<key>Swordfish</key>
+			<integer>140</integer>
+			<key>Rocktail</key>
+			<integer>225</integer>
+			<key>Summer Pie</key>
+			<integer>260</integer>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>Oak</key>
+			<real>37.5</real>
+			<key>Willow</key>
+			<real>67.5</real>
+			<key>Teak</key>
+			<integer>85</integer>
+			<key>Maple</key>
+			<integer>100</integer>
+			<key>Yew</key>
+			<integer>175</integer>
+			<key>Ivy</key>
+			<real>332.5</real>
+			<key>Magic</key>
+			<integer>250</integer>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>Longbow</key>
+			<integer>20</integer>
+			<key>Oak Longbow</key>
+			<integer>50</integer>
+			<key>Willow Longbow</key>
+			<integer>83</integer>
+			<key>Maple Longbow</key>
+			<real>116.6</real>
+			<key>Yew Longbow</key>
+			<integer>150</integer>
+			<key>Magic Longbow</key>
+			<integer>183</integer>
+			<key>Longbow Unstrung</key>
+			<string>10</string>
+			<key>Oak Unstrung</key>
+			<string>25</string>
+			<key>Willow Unstrung</key>
+			<string>41.5</string>
+			<key>Maple Unstrung</key>
+			<string>58.3</string>
+			<key>Yew Unstrung</key>
+			<string>75</string>
+			<key>Magic Unstrung</key>
+			<string>91.5</string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>Trout</key>
+			<integer>50</integer>
+			<key>Pike</key>
+			<integer>60</integer>
+			<key>Salmon</key>
+			<integer>70</integer>
+			<key>Tuna</key>
+			<integer>80</integer>
+			<key>Cave Eel</key>
+			<integer>80</integer>
+			<key>Lobster</key>
+			<integer>90</integer>
+			<key>Swordfish</key>
+			<integer>100</integer>
+			<key>Leaping Salmon</key>
+			<integer>70</integer>
+			<key>Monkfish</key>
+			<integer>120</integer>
+			<key>Shark</key>
+			<integer>110</integer>
+			<key>Cavefish</key>
+			<integer>300</integer>
+			<key>Rocktail</key>
+			<integer>380</integer>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>Logs</key>
+			<integer>40</integer>
+			<key>Oak Logs</key>
+			<integer>60</integer>
+			<key>Willow Logs</key>
+			<integer>90</integer>
+			<key>Teak Logs</key>
+			<integer>105</integer>
+			<key>Maple Logs</key>
+			<integer>135</integer>
+			<key>Mahogany Logs</key>
+			<real>157.5</real>
+			<key>Eucalyptus Logs</key>
+			<real>193.5</real>
+			<key>Yew Logs</key>
+			<real>202.5</real>
+			<key>Magic Logs</key>
+			<real>303.8</real>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>Gold Bracelet</key>
+			<integer>25</integer>
+			<key>Leather Cowl</key>
+			<real>18.5</real>
+			<key>Leather Vambraces</key>
+			<integer>22</integer>
+			<key>Leather Chaps</key>
+			<integer>33</integer>
+			<key>Coif</key>
+			<integer>37</integer>
+			<key>Green DragHide Vamb</key>
+			<integer>62</integer>
+			<key>Green DragHide Chaps</key>
+			<integer>124</integer>
+			<key>Green DragHide Body</key>
+			<integer>186</integer>
+			<key>Blue DragHide Vamb</key>
+			<integer>70</integer>
+			<key>Blue DragHide Chaps</key>
+			<integer>140</integer>
+			<key>Blue DragHide Body</key>
+			<integer>210</integer>
+			<key>Red DragHide Vamb</key>
+			<integer>78</integer>
+			<key>Red DragHide Chaps</key>
+			<integer>156</integer>
+			<key>Red DragHide Body</key>
+			<integer>234</integer>
+			<key>Black DragHide Vamb</key>
+			<integer>86</integer>
+			<key>Black DragHide Chaps</key>
+			<integer>172</integer>
+			<key>Black DragHide Body</key>
+			<integer>258</integer>
+			<key>Cut Sapphire</key>
+			<integer>50</integer>
+			<key>Cut Ruby</key>
+			<integer>85</integer>
+			<key>Cut Emerald</key>
+			<integer>67</integer>
+			<key>Cut Diamond</key>
+			<real>107.5</real>
+			<key>Cut DragonStone</key>
+			<real>137.5</real>
+			<key>Water Battlestaff</key>
+			<integer>100</integer>
+			<key>Earth Battlestaff</key>
+			<real>112.5</real>
+			<key>Fire Battlestaff</key>
+			<integer>125</integer>
+			<key>Air Battlestaff</key>
+			<real>137.5</real>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>Bronze Bar</key>
+			<integer>6</integer>
+			<key>Iron</key>
+			<real>12.5</real>
+			<key>Silver</key>
+			<real>13.7</real>
+			<key>Steel</key>
+			<real>17.5</real>
+			<key>Gold</key>
+			<real>22.5</real>
+			<key>Gold+Graunants</key>
+			<real>56.2</real>
+			<key>Mithril</key>
+			<integer>30</integer>
+			<key>Adamantite</key>
+			<real>37.5</real>
+			<key>Runite</key>
+			<integer>50</integer>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>Clay</key>
+			<integer>5</integer>
+			<key>Rune Essence</key>
+			<integer>5</integer>
+			<key>Iron Ore</key>
+			<integer>35</integer>
+			<key>Silver Ore</key>
+			<integer>40</integer>
+			<key>Pure Essence</key>
+			<integer>5</integer>
+			<key>Coal</key>
+			<integer>50</integer>
+			<key>Sandstone</key>
+			<integer>45</integer>
+			<key>Gold Ore</key>
+			<integer>65</integer>
+			<key>Obsidian</key>
+			<integer>40</integer>
+			<key>Granite</key>
+			<integer>75</integer>
+			<key>Mithril Ore</key>
+			<integer>80</integer>
+			<key>Adamantite Ore</key>
+			<integer>95</integer>
+			<key>Concentrated Gold Deposits</key>
+			<integer>65</integer>
+			<key>Runite Ore</key>
+			<integer>125</integer>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>Attack Potion</key>
+			<integer>25</integer>
+			<key>Energy Potion</key>
+			<real>67.5</real>
+			<key>Prayer Potion</key>
+			<real>87.5</real>
+			<key>Super Attack</key>
+			<integer>100</integer>
+			<key>Super Antipoison</key>
+			<real>106.5</real>
+			<key>Super Energy</key>
+			<real>117.5</real>
+			<key>Super Strength</key>
+			<integer>125</integer>
+			<key>Magic Essence</key>
+			<integer>130</integer>
+			<key>Weapon Poison</key>
+			<real>137.5</real>
+			<key>Super Stat Restore</key>
+			<real>142.5</real>
+			<key>Super Defence</key>
+			<integer>150</integer>
+			<key>ExStr Antipoison</key>
+			<integer>155</integer>
+			<key>Antifire Potion</key>
+			<real>157.5</real>
+			<key>Ranging Potion</key>
+			<real>162.5</real>
+			<key>ExStr Weap Poison</key>
+			<integer>165</integer>
+			<key>Magic Potion</key>
+			<real>172.5</real>
+			<key>SupStr AntiPoison</key>
+			<real>177.5</real>
+			<key>Saradomin Brew</key>
+			<integer>180</integer>
+			<key>SupStr Weapon Poison</key>
+			<integer>190</integer>
+			<key>Recovery Special</key>
+			<integer>200</integer>
+			<key>Super Antifire </key>
+			<integer>210</integer>
+			<key>Extreme Attack</key>
+			<integer>220</integer>
+			<key>Extreme Strength</key>
+			<integer>230</integer>
+			<key>Extreme Defence</key>
+			<integer>240</integer>
+			<key>Extreme Magic</key>
+			<integer>250</integer>
+			<key>Extreme Ranging</key>
+			<integer>260</integer>
+			<key>Super Prayer </key>
+			<integer>270</integer>
+			<key>Overload Potion</key>
+			<integer>1000</integer>
+			<key>Overload</key>
+			<integer>1000</integer>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>Gnome Stronghold</key>
+			<real>86.5</real>
+			<key>Barbarian Outpost</key>
+			<real>153.2</real>
+			<key>Ape Atoll</key>
+			<integer>580</integer>
+			<key>Wilderness</key>
+			<real>571.4</real>
+			<key>Gnome Advance</key>
+			<integer>725</integer>
+			<key>Barbarian Advance</key>
+			<integer>740</integer>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>Man</key>
+			<integer>8</integer>
+			<key>Stalls</key>
+			<integer>70</integer>
+			<key>Farmer</key>
+			<integer>10</integer>
+			<key>Warrior</key>
+			<integer>26</integer>
+			<key>Master Farmer</key>
+			<integer>43</integer>
+			<key>Guard</key>
+			<real>46.8</real>
+			<key>Fremennik</key>
+			<integer>65</integer>
+			<key>Desert Bandit</key>
+			<real>79.40000000000001</real>
+			<key>Knight of Ardounge</key>
+			<real>84.3</real>
+			<key>Pollivnian Bandit</key>
+			<real>84.3</real>
+			<key>Yanille Watchman</key>
+			<real>137.5</real>
+			<key>Monkey Knife Fighter</key>
+			<integer>150</integer>
+			<key>Paladine</key>
+			<real>151.8</real>
+			<key>Hero</key>
+			<real>275.3</real>
+			<key>Elf</key>
+			<real>353.3</real>
+			<key>Cake Stall</key>
+			<string>16</string>
+			<key>Tea Stall</key>
+			<string>16</string>
+			<key>Fur Stall</key>
+			<string>36</string>
+			<key>Silver Stall</key>
+			<string>54</string>
+			<key>Silk Stall</key>
+			<string>54</string>
+			<key>Scimitar Stall</key>
+			<string>160</string>
+			<key>Gem Stall </key>
+			<string>16</string>
+		</dict>
+		<key>20</key>
+		<dict>
+			<key>Curry Tree</key>
+			<real>2906.9</real>
+			<key>Pineapple Plant</key>
+			<real>4605.7</real>
+			<key>Papaya Tree</key>
+			<real>6156.4</real>
+			<key>Palm Tree</key>
+			<real>10150.1</real>
+			<key>Oak Tree</key>
+			<real>467.3</real>
+			<key>Willow Tree</key>
+			<real>1456.3</real>
+			<key>Maple Tree</key>
+			<real>3403.4</real>
+			<key>Yew Tree</key>
+			<real>7069.9</real>
+			<key>Magic Tree</key>
+			<real>13768.3</real>
+		</dict>
+		<key>21</key>
+		<dict>
+			<key>Air Rune</key>
+			<integer>5</integer>
+			<key>Mind Rune</key>
+			<real>5.5</real>
+			<key>Water Rune</key>
+			<integer>6</integer>
+			<key>Earth Rune</key>
+			<real>6.5</real>
+			<key>Fire Rune</key>
+			<integer>7</integer>
+			<key>Cosmic Rune</key>
+			<integer>8</integer>
+			<key>Chaos Rune</key>
+			<real>8.5</real>
+			<key>Astral Rune</key>
+			<real>8.699999999999999</real>
+			<key>Nature Rune</key>
+			<integer>9</integer>
+			<key>Law Rune</key>
+			<real>9.5</real>
+			<key>Death Rune</key>
+			<integer>10</integer>
+			<key>Blood Rune</key>
+			<real>10.5</real>
+			<key>Soul Rune</key>
+			<integer>11</integer>
+		</dict>
+		<key>22</key>
+		<dict>
+			<key>Polar Kebbit</key>
+			<integer>30</integer>
+			<key>Common Kebbit</key>
+			<integer>36</integer>
+			<key>Feldip Weasel</key>
+			<integer>48</integer>
+			<key>Desert Devil</key>
+			<integer>66</integer>
+			<key>Razor-Backed Kebbit</key>
+			<integer>348</integer>
+			<key>Crimson Swift</key>
+			<integer>34</integer>
+			<key>Golden Warbler</key>
+			<real>47.5</real>
+			<key>Copper Longtail</key>
+			<integer>61</integer>
+			<key>Cerulean Twitch</key>
+			<real>64.59999999999999</real>
+			<key>Tropical Wagtail</key>
+			<real>95.2</real>
+			<key>Wimpy Bird</key>
+			<integer>167</integer>
+			<key>Wild Kebbit</key>
+			<integer>128</integer>
+			<key>Barb-Tailed Kebbit</key>
+			<integer>168</integer>
+			<key>Prickly Kebbit</key>
+			<integer>204</integer>
+			<key>Diseased Kebbit</key>
+			<integer>225</integer>
+			<key>Sarbre-Toothed Kebbit</key>
+			<integer>200</integer>
+			<key>Chinchompa</key>
+			<real>198.4</real>
+			<key>Red Chinchompa</key>
+			<integer>265</integer>
+			<key>Pawya</key>
+			<integer>400</integer>
+			<key>Grenwall</key>
+			<integer>1100</integer>
+			<key>Swamp Lizard</key>
+			<integer>152</integer>
+			<key>Orange Salamander</key>
+			<integer>224</integer>
+			<key>Red Salamander</key>
+			<integer>272</integer>
+			<key>Black Salamander</key>
+			<integer>304</integer>
+			<key>Spined Larupia</key>
+			<integer>180</integer>
+			<key>Horned Graahk</key>
+			<integer>240</integer>
+			<key>Sabre-Toothed Kyatt</key>
+			<integer>300</integer>
+		</dict>
+		<key>23</key>
+		<dict>
+			<key>Oak Ladder</key>
+			<integer>480</integer>
+			<key>Oak Doors (Dungeon)</key>
+			<integer>600</integer>
+			<key>Mahogany Table</key>
+			<integer>840</integer>
+		</dict>
+		<key>24</key>
+		<dict>
+			<key>Steel Titan</key>
+			<real>435.2</real>
+			<key>Pack Yak</key>
+			<real>422.4</real>
+			<key>Iron Titan</key>
+			<real>417.6</real>
+			<key>Abyssal Titan</key>
+			<real>163.2</real>
+			<key>Wolpertinger</key>
+			<real>404.8</real>
+			<key>Geyser Titan</key>
+			<real>783.2</real>
+			<key>Unicorn Stallion</key>
+			<real>154.4</real>
+			<key>Rune Minotaur</key>
+			<real>783.2</real>
+			<key>Swamp Titan</key>
+			<real>373.6</real>
+			<key>Lava Titan</key>
+			<real>730.4</real>
+		</dict>
+	</dict>
+	<key>modifier</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Accurate</key>
+			<string>4</string>
+			<key>Controlled</key>
+			<string></string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Defensive</key>
+			<string>4</string>
+			<key>Controlled</key>
+			<string>1.3</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Aggresive</key>
+			<string>4</string>
+			<key>Controlled</key>
+			<string>1.3</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Rapid/Acc</key>
+			<string>4</string>
+			<key>Longrange</key>
+			<string>2</string>
+			<key>Cannon</key>
+			<string>2</string>
+			<key>Sc Equipment</key>
+			<string>2</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>G Altar +Burners</key>
+			<string>3.5</string>
+			<key>Ectofuntus</key>
+			<string>4</string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Sc Hatchet</key>
+			<string>2</string>
+			<key>Lumberjack Outfit</key>
+			<string>1.025</string>
+			<key>Lumber + Sc</key>
+			<string>2.025</string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Sc Knife</key>
+			<string>2</string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Sc Harpoon</key>
+			<string>2</string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Ring of Fire</key>
+			<string>1.02</string>
+			<key>Flame Gloves</key>
+			<string>1.02</string>
+			<key>Ring+Gloves</key>
+			<string>1.05</string>
+			<key>Penance Horn</key>
+			<string>2</string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Sc Neddle</key>
+			<string>2</string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Sc Hammer</key>
+			<string>2</string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Sc Pickaxe</key>
+			<string>2</string>
+			<key>Penance Horn</key>
+			<string>2</string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Karamja Gloves</key>
+			<string>1.1</string>
+			<key>Penance Horn</key>
+			<string>2</string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Black Ivis</key>
+			<string>1.025</string>
+		</dict>
+		<key>20</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+		</dict>
+		<key>21</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Rc Gloves</key>
+			<string>2</string>
+			<key>Master Rc Robes</key>
+			<string>1.025</string>
+		</dict>
+		<key>22</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+		</dict>
+		<key>23</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+			<key>Sc Hammer</key>
+			<string>2</string>
+			<key>Con Outfit</key>
+			<string>1.025</string>
+			<key>Outfit+Sc Hammer</key>
+			<string>2.025</string>
+		</dict>
+		<key>24</key>
+		<dict>
+			<key>Default</key>
+			<string>1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
