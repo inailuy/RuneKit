@@ -34,7 +34,6 @@
                 <navigationController title="Hi Scores" definesPresentationContext="YES" id="W1V-uE-TZW" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Hi Scores" image="111-user.png" id="xZq-Op-N7i"/>
                     <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="blackTranslucent"/>
-                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" barStyle="blackOpaque" prompted="NO"/>
                     <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" barStyle="blackOpaque" id="gHc-V7-cFa">
                         <rect key="frame" x="0.0" y="-44" width="0.0" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -154,6 +153,8 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Recent News" id="Far-Q1-QBb"/>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="blackTranslucent"/>
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" barStyle="blackOpaque" prompted="NO"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pz6-XM-3b8" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -227,10 +228,11 @@
                 <navigationController id="sRS-qh-4zz" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="News" image="166-newspaper.png" id="agz-GU-ln7"/>
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="6vj-F0-s7D">
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="blackTranslucent"/>
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" barStyle="blackOpaque" prompted="NO"/>
+                    <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" barStyle="blackOpaque" id="6vj-F0-s7D">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
-                        <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
@@ -247,6 +249,7 @@
                 <navigationController title="GE" id="Sgh-zj-85V" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="GE" image="138-scales.png" id="4FC-wu-onz"/>
                     <toolbarItems/>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="blackTranslucent"/>
                     <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" barStyle="blackOpaque" prompted="NO"/>
                     <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" barStyle="blackOpaque" id="CPW-pc-oas">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -302,6 +305,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" id="qgv-CR-cYS"/>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="blackTranslucent"/>
                     <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" barStyle="blackOpaque" prompted="NO"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dgb-6F-8gr" userLabel="First Responder" sceneMemberID="firstResponder"/>

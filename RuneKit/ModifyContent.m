@@ -62,7 +62,7 @@
         toolbar.alpha = .2;
         
     }
-    expField.inputAccessoryView = toolbar;
+    expField.inputAccessoryView = to olbar;
     goalField.inputAccessoryView = toolbar;
     
     self.navigationItem.title = @"Modify";

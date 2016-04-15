@@ -3,7 +3,7 @@
 //  RuneKit
 //
 //  Created by Yuliani Noriega on 12/20/11.
-//  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2011 RuneKit. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -12,18 +12,7 @@
 #import "Reachability.h"
 
 
-@interface MainPage : UITableViewController<EGORefreshTableHeaderDelegate>{
-    ParserMAIN *xmlParser;
-    EGORefreshTableHeaderView *_refreshHeaderView;
-    BOOL _reloading;
-    UIActivityIndicatorView *spinner;
-    NSDictionary *imageDictionary;
-    
-    NSArray *contentPassed;
-    Reachability *internetConnection;
-}
-
-
+@interface MainPage : UITableViewController<EGORefreshTableHeaderDelegate>
 
 - (void)parseTheLog;
 - (void)reloadTableViewDataSource;

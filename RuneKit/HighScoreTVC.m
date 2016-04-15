@@ -41,11 +41,12 @@
     //Creating UISearchbar
     searchBarInput = [[UISearchBar alloc] init];
     searchBarInput.barStyle = 1;
-    searchBarInput.placeholder = @"Search The HighScore DataBase";
+    searchBarInput.placeholder = @"Search the HighScore";
     searchBarInput.delegate = (id)self;
     searchBarInput.autocapitalizationType = UITextAutocapitalizationTypeNone;
     //[self.view insertSubview:searchBarInput atIndex:0];
     [searchBarInput sizeToFit];
+    //searchBarInput.tintColor = [UIColor blackColor];
     self.navigationItem.titleView = searchBarInput;
     
     

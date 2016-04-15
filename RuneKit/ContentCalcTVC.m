@@ -66,6 +66,7 @@
                              target:self 
                              action:@selector(displayModifyContent:)];
     self.navigationItem.rightBarButtonItem = item;
+
 }
 
 -(void)displayModifyContent:(id)sender{
@@ -74,7 +75,7 @@
     NSDictionary *specificModifier = [preModifier objectForKey:@"modifier"];
     
     UINavigationController *nav = [[UINavigationController alloc] init];
-    nav.navigationBar.barStyle = UIBarStyleBlack;
+    nav.navigationBar.barStyle = UIBarStyleDefault;
     
     ModifyContent *_modifyContent = [[ModifyContent alloc] init];
     _modifyContent.modifier = [specificModifier objectForKey:self.skill];
